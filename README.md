@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-WSL2-E95420?logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/-FastAPI-009688.svg?&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/-pandas-150458.svg?&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/-Jupyter Notebook-F37626.svg?&logo=jupyter&logoColor=white">
 
@@ -32,7 +31,6 @@ Build an application in an AWS environment that utilizes AWS Lambda to invoke a 
 | ------------------ | ------- | 
 | Python             | 3.9.18  |
 | tflite-runtime     | 2.7.0   |
-| fastapi            | 0.110.1 |
 | pandas             | 2.2.1   |
 
 ## Repository Structure
